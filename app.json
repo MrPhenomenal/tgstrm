@@ -2,6 +2,7 @@
  "name": "TG Files to Link",
  "description": "Telegram files to Direct link!!",
  "logo": "https://telegra.ph/file/c3d25aa057a3aa2282d50.png",
+ "stack": "heroku-18"
  "keywords": [
    "telegram",
    "FiletoLinkBot",
